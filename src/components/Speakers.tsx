@@ -10,22 +10,22 @@ export function Speakers() {
     {
       name: 'Govinda Romero',
       role: 'CEO, TechFlow Ventures',
-      image: 'https://images.unsplash.com/photo-1661334171123-de55a112427c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBzcGVha2VyJTIwY29uZmVyZW5jZXxlbnwxfHx8fDE3NTk2MDIxODB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
+      image: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1134353883%2F127239494063%2F1%2Foriginal.20250924-185032?auto=format%2Ccompress&q=75&sharp=10&rect=451%2C0%2C1899%2C1899&s=d8253423c8ad4c3c8e9d366860747378'
     },
     {
       name: 'Rukmini Poddar',
       role: 'Founder, InnovateAI',
-      image: 'https://images.unsplash.com/photo-1600783486418-d366cce3ccbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbnRyZXByZW5ldXIlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NTk1NzU5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
+      image: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1140406543%2F127239494063%2F1%2Foriginal.20250930-184730?auto=format%2Ccompress&q=75&sharp=10&s=56e0cf5a67e39155f2528d52684114ad'
     },
     {
       name: 'Denver Beck',
       role: 'CTO, BuildSpace Labs',
-      image: 'https://images.unsplash.com/photo-1708195886023-3ecb00ac7a49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGV4ZWN1dGl2ZSUyMHBvcnRyYWl0fGVufDF8fHx8MTc1OTUxOTg3MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
+      image: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1140417713%2F127239494063%2F1%2Foriginal.20250930-185614?auto=format%2Ccompress&q=75&sharp=10&rect=320%2C19%2C977%2C977&s=baf50cac3b9f8330b05fd41b129ae8bb'
     },
     {
       name: 'Rose Higgins',
       role: 'Partner, GatorVentures',
-      image: 'https://images.unsplash.com/photo-1524538198441-241ff79d153b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMGJ1c2luZXNzJTIwcHJvZmVzc2lvbmFsfGVufDF8fHx8MTc1OTYwMjE4NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
+      image: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1140417713%2F127239494063%2F1%2Foriginal.20250930-185614?auto=format%2Ccompress&q=75&sharp=10&rect=320%2C19%2C977%2C977&s=baf50cac3b9f8330b05fd41b129ae8bb'
     }
   ];
 
