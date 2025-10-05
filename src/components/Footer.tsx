@@ -28,7 +28,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={16} />
-                <span>hello@founderssummit.com</span>
+                <span>hello@founderssummit.co</span>
               </div>
             </div>
           </motion.div>

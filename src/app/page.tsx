@@ -1,6 +1,5 @@
 import { Navbar } from '@/components/Navbar'
 import { Hero } from '@/components/Hero'
-import { SocialProof } from '@/components/SocialProof'
 import { Speakers } from '@/components/Speakers'
 import { Agenda } from '@/components/Agenda'
 import { WhyAttend } from '@/components/WhyAttend'
@@ -22,7 +21,7 @@ export default function Home() {
         <ClientWrapper>
           <Hero />
         </ClientWrapper>
-        <SocialProof />
+        {/* SocialProof removed */}
         <Speakers />
         <ClientWrapper>
           <Agenda />
